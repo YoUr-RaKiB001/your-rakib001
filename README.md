@@ -76,7 +76,7 @@
 
 _______________________
 
-![Contribution Snake](https://github.com/rakib-dev/rakib-dev/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
 
 ## 🎯 𝓟𝓻𝓸𝓳𝓮𝓬𝓽 𝓗𝓲𝓰𝓱𝓵𝓲𝓰𝓱𝓽𝓼
 
